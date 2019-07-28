@@ -1,2 +1,2 @@
 # SWA
-Samsung Software Academy
+Samsung Software Academy Problems & Solving
